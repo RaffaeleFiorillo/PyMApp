@@ -1,0 +1,5 @@
+map_name="Test_Map"
+rows=10
+columns=15
+tile_size = 32
+project_name = "Island"
